@@ -1,4 +1,4 @@
-# Telecom churn analysis of multinational French company Orange SA
+# Telecom churn analysis of a multinational French company Orange SA
 
 Problem Statement: French multinational company is facing the churn problem. I was asked to figure out the key features effecting the churn increase from the 
 given data-set and suggest the possible solutions 
