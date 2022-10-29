@@ -5,7 +5,9 @@ given data-set and suggest the possible solutions
 
 Given: Clean customer data in .csv format, which includes key features as number of international calls, total day-call minutes, calling chargers etc. 
 
-Tools/modules (python) used: This project has mostly used: i) pandas for .csv data; ii) Matplotlib, and iii) Seaborn for data visualization. Data overview: The csv data provided consist of 20 columns and 3333 row entries of customers. No Nan value was found. Nearly 14.5% of the customers were having churn value as true, which is not a good sign for sustainable growth. Based on the correlation heat map with churn, i) Customer service call, ii) Total day-call minutes &, iii) Total day chargers are having the highest influence on churn (correlation coefficient > 0.2). 
+Tools/modules (python) used: This project has mostly used: i) pandas for .csv data; ii) Matplotlib, and iii) Seaborn for data visualization. 
+
+Data overview: The csv data provided consist of 20 columns and 3333 row entries of customers. No Nan value was found. Nearly 14.5% of the customers were having churn value as true, which is not a good sign for sustainable growth. Based on the correlation heat map with churn, i) Customer service call, ii) Total day-call minutes &, iii) Total day chargers are having the highest influence on churn (correlation coefficient > 0.2). 
 
 Result summary: From this data exploration study, following conclusion can be made: 
 - New Jersey (NJ), California, Texas, Mary Land (MD), South Carolina (SC) and New York requires a network upgradation. 
